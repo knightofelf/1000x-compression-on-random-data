@@ -37,6 +37,7 @@ XP PC 시절에는 COM Port 도 짝수 홀수 충돌 영향을 받았다.  Core2
 QCOW WinSPD 1GB 읽기 쓰기 벤치마크 테스트 기록 <BR>
 CreateFileMapping () x1.5배 읽기 쓰기 <BR>
 PWSa 2번째 쓰기부터. 1초 순간 복사 <BR>
+FP8 > FP16 > FP32 > FP64 2배씩 작은쪽 속도 우선 <BR>
 
 Intel Multicore Hyperthreading 
 https://www.youtube.com/watch?v=VcoVYfDVEww <BR> 
