@@ -6,7 +6,7 @@ Test extreme compression ratios (1000x or more) for random data in around 1 seco
 rand ( ) % 2 ~ 8 <BR>
 GetTickCount ( ) % 2 ~ 8 <BR>
 ~16 ~32도 압축효율 가능성이 보임. ㅇ_ㅇ;; <BR>
-- r값 : 랜덤 데이터를 1바이트씩 얻는다. 아스키 문자 숫자 '5' '2' '4'... <BR>
+- r값 : 랜덤 데이터를 1바이트씩 얻는다. 아스키 문자 숫자 '4' '2' '5'... <BR>
 - ar[r] = 1 : 8바이트배열ar의 순서 위치r을 활성화. 비활성화 인 경우만 처리 <BR>
 <BR>
 랜덤값 위치에 값을 입력하거나 활성화하고. 이미 값이 있으면. 다음 랜덤값 실행. <BR>
