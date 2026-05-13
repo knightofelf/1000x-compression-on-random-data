@@ -5,6 +5,8 @@
 
 using namespace std;
 
+// 깃허브 AI 가 정리한 코드 ㅇ_ㅇ;;
+
 // Generate random data with balanced distribution across 8 values
 // Returns the count of generated values
 int fn_rand_length()
