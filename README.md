@@ -25,7 +25,7 @@ GetTickCount ( ) % 2 ~ 8 <BR>
 <BR>
 8바이트씩 묶어서 저장하면. 1000배 이상 압축 가능 ㅇ_ㅇ'' <BR>
 마치. HyperThreding의 고속 포트 순서 처럼 ㅇ_ㅇ'' <BR> 
-XP PC 시절에는 COM Port 도 짝수 홀수 충돌 영향을 받았다. <BR> 
+XP PC 시절에는 COM Port 도 짝수 홀수 충돌 영향을 받았다.  Core2Duo 도 비슷하다. <BR> 
  <BR>
 // 유사한 속도 향상 사례<BR>
 QCOW WinSPD 1GB 읽기 쓰기 벤치마크 테스트 기록 <BR>
