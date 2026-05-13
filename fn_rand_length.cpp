@@ -5,18 +5,20 @@
 
 using namespace std;
 
-// 깃허브 AI 가 정리한 코드 ㅇ_ㅇ;;
+// 源껎뿀釉?AI 媛 ?뺣━??肄붾뱶 ????;
 
+    char order[10];
+    int counts[8] = {0};  // Counter for each value (0-7)
+    
 // Generate random data with balanced distribution across 8 values
 // Returns the count of generated values
 int fn_rand_length()
 {
     unsigned char vv[10];
-    char order[10];
-    int counts[8] = {0};  // Counter for each value (0-7)
     
     memset(order, 0x00, 10);
     memset(vv, 0x00, 10);
+    memset(counts, 0x00, 8*sizeof(int));
     
     int index = 0;
     
@@ -48,7 +50,17 @@ int main(int argc, char** argv)
     for (int i = 0; i < 10; i++)
     {
         int len = fn_rand_length();
-        cout << "Generated " << len << " random values" << endl;
+        cout << "Generated " << len << " random values " ;
+    	for (int j = 0; j < 8; j++)
+	    {
+    	    cout << order[j];
+	    }
+        cout << " ";
+    	for (int j = 0; j < 8; j++)
+	    {
+    	    cout << counts[j];
+	    }
+        cout << endl;
     }
     
     return 0;
