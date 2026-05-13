@@ -38,6 +38,8 @@ QCOW WinSPD 1GB 읽기 쓰기 벤치마크 테스트 기록 <BR>
 CreateFileMapping () x1.5배 읽기 쓰기 <BR>
 PWSa 2번째 쓰기부터. 1초 순간 복사 <BR>
 FP8 > FP16 > FP32 > FP64 2배씩 작은쪽 속도 우선 <BR>
+SFTP 압축전송 향상 <BR>
+VirtualBox UDMA6 가상 지원 <BR>
 
 Intel Multicore Hyperthreading 
 https://www.youtube.com/watch?v=VcoVYfDVEww <BR> 
