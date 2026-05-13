@@ -24,5 +24,7 @@ GetTickCount ( ) % 2 ~ 8 <BR>
 8바이트씩 묶어서 저장하면. 1000배 이상 압축 가능 ㅇ_ㅇ'' <BR>
 마치. HyperThreding의 고속 포트 순서 처럼 ㅇ_ㅇ'' <BR> 
 XP PC 시절에는 COM Port 도 짝수 홀수 충돌 영향을 받았다. <BR> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VcoVYfDVEww?si=y3Q_3Lt_Kd7QaMxb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <BR> 
+https://www.youtube.com/embed/VcoVYfDVEww?si=y3Q_3Lt_Kd7QaMxb <BR> 
+
 
