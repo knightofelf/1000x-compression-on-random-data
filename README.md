@@ -21,7 +21,17 @@ GetTickCount ( ) % 2 ~ 8 <BR>
 [ ][2][4][ ][0][7][5][ ] <BR>
 [ ][2][4][ ][0][7][5][1] <BR>
 [3][2][4][ ][0][7][5][1] <BR>
-[3][2][4][6][0][7][5][1] 마지막 결과값 8바이트 문자 - 다른값 위치로 한팩씩 모으기 - Z팩? <BR>
+[3][2][4][6][0][7][5][1] 마지막 결과값 8바이트 문자 <BR>
+<BR>
+<BR>
+// 다른값 위치로 한팩씩 모으기 - Z팩? <BR>
+Compatibility Pack - Service Pack - HPC Pack - Codec Pack - Media Pack - Feature Pack - Language Packs <BR>
+<BR>
+alignas(16) <BR>
+<BR> 
+// VC 명령어 대응 값: 도 이와 유사 <BR>
+- /Zp1 : 소스 전체에 #pragma pack(1)을 적용한 것과 동일. <BR>
+- /Zp8 : 소스 전체에 8바이트 기본 정렬을 적용. <BR>
 <BR>
 10MB 처리시. 대략 67~89배 압축 <BR>
 1GB 처리시. 대략 19~20만배 압축 <BR>
