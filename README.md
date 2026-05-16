@@ -60,6 +60,9 @@ Intel Multicore Hyperthreading
 https://www.youtube.com/watch?v=VcoVYfDVEww <BR> 
 <BR> 
 <BR> 
+[전세계 RSA 물리적 총용량: 약 22.5 GB] <BR>
+  ├── 중복 데이터 (85%~90%) : 약 19.5 GB (호스팅 기본 키, 클라우드 복제본, 와일드카드) <BR>
+  └── 순수 고유 데이터 (10%~15%) : 약 3.0 GB (실제 활성화되어 운영 중인 고유 인증서) <BR>
 <BR> 
 <BR> 
 1111111111... 2222222222... 처럼. 길게. 효율적으로. 활용할만 하다. <BR> 
