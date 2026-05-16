@@ -33,8 +33,8 @@ alignas(16) <BR>
 - /Zp1 : 소스 전체에 #pragma pack(1)을 적용한 것과 동일. <BR>
 - /Zp8 : 소스 전체에 8바이트 기본 정렬을 적용. <BR>
 <BR>
-10MB 처리시. 대략 67~89배 압축 <BR>
-1GB 처리시. 대략 19~20만배 압축 <BR>
+✅10MB 처리시. 대략 67~89배 압축 <BR>
+✅1GB 처리시. 대략 19~20만배 압축 <BR>
 brotli --quality=11 --large_window --window=24 input_file.txt -o output_file.br <BR>
 brotli --quality=11 --large_window --lgwin=30 input_1gb.txt -o output_file.br <BR>
 <BR>
