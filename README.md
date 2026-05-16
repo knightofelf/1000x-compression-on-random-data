@@ -23,6 +23,11 @@ GetTickCount ( ) % 2 ~ 8 <BR>
 [3][2][4][ ][0][7][5][1] <BR>
 [3][2][4][6][0][7][5][1] 마지막 결과값 8바이트 문자 <BR>
 <BR>
+✅10MB 처리시. 대략 67~89배 압축   -  약0.15MB (150KB)  약0.11MB (112KB)  <BR>
+✅1GB 처리시. 대략 19~20만배 압축  -  약5.4KB  약5.1KB  <BR>
+brotli --quality=11 --large_window --window=24 input_file.txt -o output_file.br <BR>
+brotli --quality=11 --large_window --lgwin=30 input_1gb.txt -o output_file.br <BR>
+<BR>
 <BR>
 // 다른값 위치로 한팩씩 모으기 - Z팩? <BR>
 Compatibility Pack - Service Pack - HPC Pack - Codec Pack - Media Pack - Feature Pack - Language Packs <BR>
@@ -32,11 +37,6 @@ alignas(16) 얼라이어스를 위하여 - 호드를 위하여 <BR>
 // VC 명령어 대응 값: 도 이와 유사 <BR>
 - /Zp1 : 소스 전체에 #pragma pack(1)을 적용한 것과 동일. <BR>
 - /Zp8 : 소스 전체에 8바이트 기본 정렬을 적용. <BR>
-<BR>
-✅10MB 처리시. 대략 67~89배 압축   -  약0.15MB (150KB)  약0.11MB (112KB)  <BR>
-✅1GB 처리시. 대략 19~20만배 압축  -  약5.4KB  약5.1KB  <BR>
-brotli --quality=11 --large_window --window=24 input_file.txt -o output_file.br <BR>
-brotli --quality=11 --large_window --lgwin=30 input_1gb.txt -o output_file.br <BR>
 <BR>
 4K 3840x2160 FullScreen ActiveX Flash - CPU 점유율 5% 이하 VPU 사용 <BR>
 ATSC 3.0 미국 표준 UHD TV - NTFS ReFS UDF(Live) - NTSC PAL - NTP 네트워크 시간 - Windows NT <BR>
