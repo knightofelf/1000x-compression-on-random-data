@@ -1,4 +1,5 @@
 2018년 업데이트 ㅇ_ㅇ'' <BR>
+Core2Duo E7400 - GeforceGT 610 기준 ㅇ_ㅇ;; <BR>
 1000배 이상. 1초 순간 압축되는 rand length 랜덤 데이터 ㅇ_ㅇ;; LZMA 7zip WinZipX XZ brotli <BR>
 Test extreme compression ratios (1000x or more) for random data in around 1 second using 7z and Brotli <BR>
 압축효율 0% 면 성공 <BR>
