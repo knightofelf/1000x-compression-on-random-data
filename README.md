@@ -27,7 +27,7 @@ GetTickCount ( ) % 2 ~ 8 <BR>
 // 다른값 위치로 한팩씩 모으기 - Z팩? <BR>
 Compatibility Pack - Service Pack - HPC Pack - Codec Pack - Media Pack - Feature Pack - Language Packs <BR>
 <BR>
-alignas(16) <BR>
+alignas(16) 얼라이어스를 위하여 - 호드를 위하여 <BR>
 <BR> 
 // VC 명령어 대응 값: 도 이와 유사 <BR>
 - /Zp1 : 소스 전체에 #pragma pack(1)을 적용한 것과 동일. <BR>
