@@ -38,6 +38,10 @@ alignas(16) <BR>
 brotli --quality=11 --large_window --window=24 input_file.txt -o output_file.br <BR>
 brotli --quality=11 --large_window --lgwin=30 input_1gb.txt -o output_file.br <BR>
 <BR>
+4K 3840x2160 FullScreen ActiveX Flash - CPU 점유율 5% 이하 VPU 사용 <BR>
+ATSC 3.0 미국 표준 UHD TV <BR>
+프리즈 frieze 건축 구조 - XPRESS4K 비슷  https://heroes.nexon.com/common/postview?b=63&n=3806 <BR>
+<BR>
 8바이트씩 묶어서 저장하면. 1000배 이상 압축 가능 ㅇ_ㅇ'' <BR>
 예전 노트패드 마저. 대용량 랜덤파일 순간 읽기가 되었다. ㅇ_ㅇ'' <BR>
 마치. HyperThreding의 고속 포트 순서 처럼 ㅇ_ㅇ'' <BR> 
