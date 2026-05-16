@@ -39,7 +39,7 @@ brotli --quality=11 --large_window --window=24 input_file.txt -o output_file.br 
 brotli --quality=11 --large_window --lgwin=30 input_1gb.txt -o output_file.br <BR>
 <BR>
 4K 3840x2160 FullScreen ActiveX Flash - CPU 점유율 5% 이하 VPU 사용 <BR>
-ATSC 3.0 미국 표준 UHD TV <BR>
+ATSC 3.0 미국 표준 UHD TV - NTFS ReFS UDF(Live) - NTSC PAL - NTP 네트워크 시간 - Windows NT <BR>
 프리즈 frieze 건축 구조 - XPRESS4K 비슷  https://heroes.nexon.com/common/postview?b=63&n=3806 <BR>
 <BR>
 8바이트씩 묶어서 저장하면. 1000배 이상 압축 가능 ㅇ_ㅇ'' <BR>
